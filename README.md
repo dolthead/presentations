@@ -1,6 +1,8 @@
 # presentations
 handouts and code samples from my presentations
 
+http://slides.com/toddhale/ionic-4-app#/
+
 http://slides.com/toddhale/pwa-basics#/
 
 https://slides.com/toddhale/ionic-firestore/live#/
