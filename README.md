@@ -29,7 +29,7 @@ Ionic Utah Meetup Videos https://www.youtube.com/playlist?list=PLK0YxsI--ERg5zEE
 
 1999 C21 All Pros Realty - https://web.archive.org/web/19981111184708/http://c21allpros.com/
 
-2000 simplybest photo archive - https://web.archive.org/web/19991129051620/https://simplybest.com/
+2000 simplybest photo archive - https://web.archive.org/web/20010517020357/http://www.simplybest.com/photos/
 
 2003 NurseMaster 2.0 - https://web.archive.org/web/20030213121205/http://nursemaster.com/
 
