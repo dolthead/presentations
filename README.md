@@ -3,9 +3,11 @@ handouts and code samples from my presentations
 
 Rapid App Dev with Ionic 7, Angular 17, Firebase 10 - February 2024 https://slides.com/toddhale/rapid-app-dev-2024/fullscreen
 
-Ionic 4 Game - January 2019 https://slides.com/toddhale/ionic-4-app/fullscreen
+PWA Notifications - July 2023 https://slides.com/toddhale/ionic-vue-pwa-notifications/fullscreen
 
 Ionic+Vue+Vite = 🚀DX - March 2023 https://slides.com/toddhale/ionic-7-vue-vite/fullscreen
+
+Ionic 4 Game - January 2019 https://slides.com/toddhale/ionic-4-app/fullscreen
 
 Ionic 4 PWA - November 2018 https://medium.com/@dolthead/ionic-utah-ionic-4-pwas-a15f99b8c752
 
